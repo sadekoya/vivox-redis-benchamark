@@ -1,1 +1,1 @@
-# vivox-redis-benchamark
+# vivox-redis-benchmark
